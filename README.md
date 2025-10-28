@@ -1,5 +1,4 @@
-# 👩‍🔬 Olha Aloshyna
-Data Science & Biotechnology Professional  
+# 👩‍🔬 Data Scientist 
 
 📍 **Riyadh, KSA**  
 🔗 [LinkedIn](https://www.linkedin.com/in/olha-aloshyna-980bb71b5) | [GitHub](https://github.com/olhaloshyna12) | [Tableau Portfolio](https://public.tableau.com/app/profile/olha.aloshyna/vizzes) | [Medium](https://medium.com/@olhaloshyna)  
