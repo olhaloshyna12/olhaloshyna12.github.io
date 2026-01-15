@@ -96,10 +96,8 @@ Dean’s Honour List, 2022
 
 ## Professional Links
 
-- GitHub: https://github.com/olhaloshyna12  
-- LinkedIn: *(add link when ready)*  
-- Tableau Portfolio: *(add link when ready)*  
-- Medium Articles: *(add link when ready)*  
+- **LinkedIn:** https://www.linkedin.com/in/olha-aloshyna-980bb71b5/  
+- **GitHub:** https://github.com/olhaloshyna12  
 
 ---
 
