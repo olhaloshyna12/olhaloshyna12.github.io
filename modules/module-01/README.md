@@ -18,8 +18,8 @@ This artefact was developed during an in-class seminar exercise facilitated by P
 
 The design applies abstraction to define common vehicle behaviour, encapsulation to protect internal state, and inheritance to model “is-a” relationships. Polymorphism allows different vehicle types to be treated uniformly through a shared interface.
 
-**File:**
-[View source code on GitHub](https://github.com/olhaloshyna12/olhaloshyna12.github.io/blob/main/modules/module-01/module_1_Vehicle_Management_System_Object_Oriented_Class_Hierarchy.py)
+**Code (view on GitHub):**
+- [module_1_Vehicle_Management_System_Object_Oriented_Class_Hierarchy.py](PASTE_GITHUB_BLOB_LINK_HERE)
 
 ## Reflection
 This module established a strong foundation for object-oriented thinking by emphasising design structure over simple functionality. Through the seminar exercise, I learned how abstraction helps manage complexity and how encapsulation enforces valid object states. The practical application of inheritance and polymorphism highlighted how object-oriented principles improve code readability, reuse, and extensibility. These concepts formed the basis for later modules focusing on SOLID principles, design patterns, and secure system design.
