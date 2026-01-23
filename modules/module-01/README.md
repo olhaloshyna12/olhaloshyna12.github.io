@@ -1,39 +1,32 @@
-# Module 1: Introduction and Recap of Object-Oriented Programming (OOP)
+# Module 1 – Introduction to Object-Oriented Design
 
-## Overview
-This module revisited the foundational principles of Object-Oriented Programming (OOP), focusing on encapsulation, inheritance, polymorphism, and abstraction. These principles underpin scalable, maintainable, and secure software design and form the conceptual foundation for advanced object-oriented development (Mazumdar, 2025).
+## Learning Focus
+Module 1 introduced the foundational concepts of object-oriented programming and responsibility-driven design. The focus was on understanding how abstraction, encapsulation, inheritance, and polymorphism support structured, maintainable, and extensible software systems.
 
-## Key Concepts and Readings
-The unit reviewed classes, objects, constructors, destructors, and access control mechanisms. Emphasis was placed on responsibility-driven class design and how encapsulation supports maintainability and robustness in large-scale systems (Lott, 2021, Chapter 7).
+## Key Concepts
+- Object-Oriented Programming (OOP)
+- Classes and Objects
+- Abstraction
+- Encapsulation
+- Inheritance
+- Polymorphism
 
-## Class Coding Exercise (Artefact)
-**Artefact:** Seminar 1 Task — Vehicle Management System (Python)
+## Artefact
+### Vehicle Management System – Object-Oriented Class Hierarchy
 
-The class coding exercise implemented a vehicle management system using an abstract base class and concrete subclasses, reinforcing core object-oriented principles through practical application (University of Essex, 2025).
+This artefact was developed during an in-class seminar exercise facilitated by Professor Anupam Mazumdar. It demonstrates the creation of a simple vehicle management system using a base `Vehicle` class and concrete subclasses such as `Car`, `Bike`, and `Truck`.
 
-### OOP Principles Demonstrated
-- **Abstraction:** Enforced through an abstract base class defining a shared interface.
-- **Inheritance:** Subclasses reused shared behaviour while extending functionality.
-- **Encapsulation:** Internal state was protected and accessed via validated methods.
-- **Polymorphism:** Subclasses implemented specialised behaviour under a common interface.
-- **Composition:** The fleet manager coordinated multiple vehicle objects.
+The design applies abstraction to define common vehicle behaviour, encapsulation to protect internal state, and inheritance to model “is-a” relationships. Polymorphism allows different vehicle types to be treated uniformly through a shared interface.
 
-## Challenges and Solutions
-A key challenge was avoiding complex conditional logic when handling different vehicle types. This was resolved using abstraction and polymorphism, allowing each subclass to manage its own behaviour. Data integrity was preserved through encapsulation and validation (University of Essex, 2025).
+**File:**
+- `module_1_Vehicle_Management_System_Object_Oriented_Class_Hierarchy.py`
 
-## Reflection on Learning
-This module strengthened my ability to translate object-oriented theory into practical design decisions, particularly in relation to responsibility-driven class design and encapsulation (Lott, 2021, Chapter 7). The exercise reinforced how clean abstraction and encapsulation reduce complexity and support extensibility, particularly in larger and security-aware systems (Mazumdar, 2025).
-
-## Contribution to Capstone Project
-The design approach established in this module—clear abstractions, protected state, and polymorphic behaviour—provides a reusable foundation for the Capstone Project, supporting scalability and maintainability (Lott, 2021, Chapter 7).
-
-## Supporting Materials
-- [Seminar 1 Slides](artefacts/Seminar1_Slides.pdf)
-- [Seminar 1 Task and Solution](artefacts/Seminar1_Task_Solution.pdf)
+## Reflection
+This module established a strong foundation for object-oriented thinking by emphasising design structure over simple functionality. Through the seminar exercise, I learned how abstraction helps manage complexity and how encapsulation enforces valid object states. The practical application of inheritance and polymorphism highlighted how object-oriented principles improve code readability, reuse, and extensibility. These concepts formed the basis for later modules focusing on SOLID principles, design patterns, and secure system design.
 
 ## References
-Lott, S. (2021). *Python Object-Oriented Programming* (4th ed., Chapter 7: Classes and Objects). Packt Publishing.
+Martin, R. C. (2003). *Agile software development: Principles, patterns, and practices*. Prentice Hall.
 
-Mazumdar, A. (2025). *Advanced Object-Oriented Design and Programming: Unit 1 – Introduction and Recap of Object-Oriented Programming*. University of Essex.
+Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley.
 
-University of Essex. (2025). *Seminar 1 Task and Solution: Vehicle Management System*. Advanced Object-Oriented Design and Programming module materials.
+Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design patterns: Elements of reusable object-oriented software*. Addison-Wesley.
