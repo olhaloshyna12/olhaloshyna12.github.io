@@ -10,7 +10,7 @@ This module was particularly valuable in shifting my approach from procedural th
 
 ## Source Code
 
-- [Vehicle Management System – Object-Oriented Class Hierarchy](https://github.com/olhaloshyna12/olhaloshyna12.github.io/blob/main/modules/module-01/module_1_Vehicle_Management_System_Object_Oriented_Class_Hierarchy.py)
+- [View source code on GitHub](https://github.com/olhaloshyna12/olhaloshyna12.github.io/blob/main/modules/module-01/module_1_Vehicle_Management_System_Object_Oriented_Class_Hierarchy.py)
 
 ## References
 
