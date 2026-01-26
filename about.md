@@ -1,7 +1,7 @@
 ---
 title: About Me
 ---
-# About Me
+# Olha Aloshyna
 
 ## Profile
 
