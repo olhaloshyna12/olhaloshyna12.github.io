@@ -1,32 +1,21 @@
-# Module 1 – Introduction to Object-Oriented Design
+# Module 1 – Object-Oriented Design Foundations
 
-## Learning Focus
-Module 1 introduced the foundational concepts of object-oriented programming and responsibility-driven design. The focus was on understanding how abstraction, encapsulation, inheritance, and polymorphism support structured, maintainable, and extensible software systems.
+This module introduced the foundational principles of object-oriented programming and established the conceptual basis for all subsequent work in the Advanced Object-Oriented Design and Programming module. The focus extended beyond writing functional code to understanding how object-oriented thinking supports clarity, maintainability, and extensibility in software systems.
 
-## Key Concepts
-- Object-Oriented Programming (OOP)
-- Classes and Objects
-- Abstraction
-- Encapsulation
-- Inheritance
-- Polymorphism
+The practical exercise involved the design and implementation of a vehicle management system using a class hierarchy. A base `Vehicle` class was created to define shared attributes and behaviours common to all vehicles, while concrete subclasses such as `Car`, `Bike`, and `Truck` extended this base class to represent specialised vehicle types.
 
-## Artefact
-### Vehicle Management System – Object-Oriented Class Hierarchy
+Key object-oriented principles were applied throughout the design. Abstraction was used to capture common vehicle behaviour in the base class, reducing duplication and improving clarity. Encapsulation ensured that internal state was protected and could only be accessed or modified through controlled methods, helping to maintain valid object states. Inheritance was used to model clear “is-a” relationships between vehicle types, while polymorphism allowed different vehicle objects to be treated uniformly through a shared interface.
 
-This artefact was developed during an in-class seminar exercise facilitated by Professor Anupam Mazumdar. It demonstrates the creation of a simple vehicle management system using a base `Vehicle` class and concrete subclasses such as `Car`, `Bike`, and `Truck`.
+This module was particularly valuable in shifting my approach from procedural thinking to responsibility-driven design. Rather than focusing on isolated functions, I learned to consider how responsibilities should be distributed across classes and how design decisions impact long-term maintainability. The concepts introduced here formed the foundation for later modules on SOLID principles, design patterns, refactoring, and large-scale system architecture.
 
-The design applies abstraction to define common vehicle behaviour, encapsulation to protect internal state, and inheritance to model “is-a” relationships. Polymorphism allows different vehicle types to be treated uniformly through a shared interface.
+## Source Code
 
-**Code (view on GitHub):**
-- [module_1_Vehicle_Management_System_Object_Oriented_Class_Hierarchy.py](PASTE_GITHUB_BLOB_LINK_HERE)
-
-## Reflection
-This module established a strong foundation for object-oriented thinking by emphasising design structure over simple functionality. Through the seminar exercise, I learned how abstraction helps manage complexity and how encapsulation enforces valid object states. The practical application of inheritance and polymorphism highlighted how object-oriented principles improve code readability, reuse, and extensibility. These concepts formed the basis for later modules focusing on SOLID principles, design patterns, and secure system design.
+- [Vehicle Management System – Object-Oriented Class Hierarchy](https://github.com/olhaloshyna12/olhaloshyna12.github.io/blob/main/modules/module-01/module_1_Vehicle_Management_System_Object_Oriented_Class_Hierarchy.py)
 
 ## References
-Martin, R. C. (2003). *Agile software development: Principles, patterns, and practices*. Prentice Hall.
 
-Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley.
+Gamma, E., Helm, R., Johnson, R. and Vlissides, J. (1994) *Design Patterns: Elements of Reusable Object-Oriented Software*. Reading, MA: Addison-Wesley.
 
-Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design patterns: Elements of reusable object-oriented software*. Addison-Wesley.
+Martin, R. C. (2003) *Agile Software Development: Principles, Patterns, and Practices*. Upper Saddle River, NJ: Prentice Hall.
+
+Martin, R. C. (2008) *Clean Code: A Handbook of Agile Software Craftsmanship*. Upper Saddle River, NJ: Prentice Hall.
