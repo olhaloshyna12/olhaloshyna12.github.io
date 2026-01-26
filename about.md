@@ -1,3 +1,6 @@
+---
+title: About
+---
 # About Me
 
 ## Profile
