@@ -1,5 +1,3 @@
-# Olha Aloshyna
-
 ## Advanced Object-Oriented Design and Programming  
 **University of Essex | October 2025 – January 2026**
 
