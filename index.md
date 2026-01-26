@@ -8,6 +8,8 @@ This portfolio documents my learning journey, practical coding artefacts, and re
 
 ---
 
+[About Me](about)
+
 ## About This Portfolio
 
 This e-Portfolio demonstrates:
