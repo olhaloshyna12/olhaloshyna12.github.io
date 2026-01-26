@@ -1,6 +1,12 @@
 ---
 title: About Me
 ---
+---
+layout: default
+title: Olha Aloshyna
+permalink: /about/
+---
+
 # Olha Aloshyna
 
 ## Profile
